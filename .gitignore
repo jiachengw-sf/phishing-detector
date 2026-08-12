@@ -1,1 +1,7 @@
-__pycache__/ *.pyc .venv/ env/ .ipynb_checkpoints/ processed_urls.csv phishing_model.pkl
+__pycache__/
+*.pyc
+.venv/
+env/
+.ipynb_checkpoints/
+processed_urls.csv
+phishing_model.pkl
